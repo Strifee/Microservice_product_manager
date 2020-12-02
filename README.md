@@ -17,6 +17,7 @@ docker run -p 80:80 service/goservice:1.0
 ``` bash
 # Request 
 # {
+#   "id":2,
 #   "name":"phone,
 #   "price":3000,
 # }
