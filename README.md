@@ -23,8 +23,8 @@ docker run -p 80:80 service/goservice:1.0
 ```
 ### Add a product
 
-![alt text](screen/POST.PNG)
+![alt text](screen/POST.png)
 
 ### Get a product
 
-![alt text](screen/GET.PNG)
+![alt text](screen/GET.png)
