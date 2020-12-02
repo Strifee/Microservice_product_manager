@@ -3,6 +3,7 @@ package main
 import (
 	"log"
 	"net/http"
+	"service/handlers"
 	"service/models"
 	"service/repository"
 )
